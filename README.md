@@ -19,6 +19,7 @@ Escape Code is a Python programming game where you use your debugging and progra
 
 ##### 1️⃣ Level 1: Shuffle
 This is a where the magic starts!  You are given a list that the code is expected to shuffle, but it doesn't work for some reason.  Your mission is to fix the code to print the password for level_2.
+
 Main Python competencies🐍: Lists, Random, Loops
 
 
