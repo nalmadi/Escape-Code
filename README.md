@@ -34,10 +34,10 @@ TBD
 I recommend using the free utility https://www.7-zip.org/ to unzip the files for each level.  Enjoy! 😊
 
 
-### Contributing 
+### 🤝 Contributing 
 
 If you have an idea for a level, found a bug, or want to contribute in any way, feel free to open an issue or submit a pull request. I welcome your creativity and input!
 
 
 
-## ⭐Give this repository a star!
+## ⭐ Give this repository a star! ⭐

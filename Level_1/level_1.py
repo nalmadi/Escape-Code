@@ -58,7 +58,8 @@ class Deck:
 def main():
     deck = Deck()
     deck.shuffle()
-    print(deck)
+    # copy the entire password including the square brackets and commas
+    print('Level_2 password is:', deck)
 
 
 if __name__ == '__main__':
