@@ -23,9 +23,13 @@ This is a where the magic starts!  You are given a list that the code is expecte
 Main Python competencies🐍: Lists, Random, Loops
 
 
-##### 2️⃣ Level 2: TBD
-TBD
+##### 2️⃣ Level 2: Balancing a Binary Search Tree (BST)
+In this level you are expected to write a few lines of code to insert items into a BST in a way that makes it balanced.  You are provided with all needed functions and the BST implementation.
 
+Main Python competencies: Binary Search Trees
+
+##### 3️⃣ Level 3: TBD
+TBD
 
 ---
 
