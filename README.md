@@ -44,4 +44,4 @@ If you have an idea for a level, found a bug, or want to contribute in any way, 
 
 
 
-## ⭐ Give this repository a star! ⭐
+## ⭐ Don't go far, give this repository a star! ⭐
