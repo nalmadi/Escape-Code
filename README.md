@@ -17,18 +17,18 @@ Escape Code is a Python 🐍 programming game where you use your debugging and p
 
 ---
 
-##### 1️⃣ Level 1: Shuffle
+#### 1️⃣ Level 1: Shuffle
 This is a where the magic starts!  The code attempts to shuffle a list, but it doesn't work for some reason.  Your mission is to fix the code to print the password for level_2.
 
 Main competencies: Lists, Random, Loops
 
 
-##### 2️⃣ Level 2: Balancing a Binary Search Tree (BST)
+#### 2️⃣ Level 2: Balancing a Binary Search Tree (BST)
 In this level you are expected to write a few lines of code to insert items into a BST in a way that makes it balanced.  You are provided with all needed functions and the BST implementation.
 
 Main competencies: Binary Search Trees
 
-##### 3️⃣ Level 3: TBD
+#### 3️⃣ Level 3: TBD
 TBD
 
 ---
